@@ -1,2 +1,5 @@
-# lsm-python
-python编程从零基础到项目实战
+### bases 基础
+	advance 进阶
+	cantainer 容器
+	def_calss 方法，类
+	for_while 逻辑
